@@ -1,0 +1,12 @@
+
+a=open('D:\\a.txt','r')
+b=a.read().split()
+print(b)
+s=input()
+count=0
+for x in b:
+    if s==x:
+        count+=1
+
+print(count)
+
