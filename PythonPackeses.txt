@@ -1,0 +1,48 @@
+1) PyTorch :- PyTorch is considered one of the largest machine learning libraries for data scientists and researchers. It helps them in dynamic computational graphs design, fast tensor computations accelerated through GPUs., and various other complex tasks. In neural network algorithms, PyTorch APIs plays an effective role.
+
+The hybrid front-end PyTorch platform is very easy to use allows us transitioning in graph mode for optimizations. For achieving accurate results in asynchronous collective operations and establishing a peer to peer communication it provides a native supports to the users.
+
+With native ONNX (Open Neural Network Exchange. support, one can export models to leverage visualizers, platforms, run-times, and various other resources. The best part of PyTorch it enables a cloud-based environment for easy scaling of resources used in deployment or testing.
+
+It is developed on the concept of another ML library called as Torch. Since the past few years, PyTorch is getting more popular among data scientists due to trending data-centric demands.
+
+2)Keras :- Keras is one of the most powerful Python libraries which allow high-level neural networks APIs for integration. Theses APIs execute over the top of TensorFlow, Theano and CNTK. Keras was created for reducing challenges faced in complex researches allowing them to compute faster. For one who is using deep learning libraries for their work, Keras is the best option.
+
+It allows fast prototyping, supports recurrent and convolution networks individually and also their combination, execution over GPU and CPU.
+
+Keras provides a user-friendly environment reducing your effort in cognitive load with simple APIs giving us the required results.  Due to its modular nature, one can use varieties of modules from neural layers, optimizers, activation functions etc.., for developing a new model.
+
+It is an open source library written in Python. For data scientists having trouble adding new modules, Keras is a good option where they can simply add a new module as classes and functions.
+
+3)Theano :- Theano is another useful Python library assists data scientists in performing large multi-dimensional arrays related computing operations. It is more like TensorFlow but the only difference is, it is not that efficient.
+
+It is getting used for distributed and parallel computing based tasks. Through it, you can optimize, express or evaluate you array-enabled mathematical operations. It is tightly coupled with NumPy powered by implemented numpy.ndarray function.
+
+Due to GPU based infrastructure, it holds the capability to process operations in faster ways than CPU. It stands fit for speed and stability optimizations delivering us the expected outcomes.
+
+For faster evaluation, its dynamic C code generator is popular among data scientists. Here, they can perform unit-testing to identify flaws in the whole model.
+
+4)SciPy :- SciPy is another Python library for researchers, developers and data scientists. Do not get confused with the SciPy stack and library. It provides statistics, optimizations, integration and linear algebra packages for computation. It is based on NumPy concept to deal with complex mathematical problems.
+
+It provides numerical routines for optimization and integration. It inherits varieties of sub-modules to choose from. If you have just started your data science career, SciPy can be very helpful to guide you throughout the whole numerical computations thing.
+
+We can see how Python programming is assisting data scientists in crunching and analyzing large and unstructured data sets. Other libraries like TensorFlow, SciKit-Learn, Eli5 are also available to assist them throughout this journey.
+
+5)PyBrain :- PyBrain is another powerful modular ML library available in Python. PyBrain stands for Python Based Reinforcement Learning, Artificial Intelligence, and Neural Network Library. For entry-level data scientists, it offers flexible modules and algorithms for advanced research. It has varieties for algorithms for evolution, neural networks, supervised and unsupervised learning.  For real-life tasks, it has emerged as the best tool which is developed across the neural network in the kernel.
+
+6) SciKit-Learn :- Scikit-Learn is a simple tool for data analysis and mining-related tasks. It is open-source and licensed under the BSD. Anyone can access or reuse it in various contexts. SciKit is developed over the Numpy, Scipy, and Matplotlib. It is being used for classification, regression and clustering o manage spam, image recognition, drug response, stock pricing, customer segmentation etc. It also allows dimensionality reduction, model selection and pre-processing.
+
+7)Tensorflow :- This open source library was designed by Google to compute data low graphs with the empowered machine learning algorithms. It was designed to fulfill high demand for the training neural networks work. It is not just limited to the scientific computations performed by Google rater it is widely being used in the popular real-world application.
+
+Due to its high performance and flexible architecture the deployment for all CPUs, GPUs or TPUs becomes easy task performing PC server clustering to the edge devices.
+ 
+8)Seaborn :- Seaborn was designed to visualize the complex statistical models. It has the potential to deliver accurate graphs such as heat maps. Seaborn was created on the concept of Matplotlib and somehow it is highly dependent on that. Minor to minor data distributions can be easily visualized through this library which is why it has become familiar among data scientists and developers.
+
+9)Plotly :- Let’s talk about the Plotly which is one of the most famous web-based frameworks for data scientists. This toolbox offers designing of visualization models with varieties of APIs supported by multiple programing languages including Python. You can easily use interactive graphics and numerous robust accessible through its main website plot.ly. For using Plotly in your working model you need to set up available API keys properly. The accessible graphics are processed on the server side and once successfully executed they will appear on your browser screen.
+
+10)OpenCV :- OpenCV is designed for driving growth of the real-time computing application development. It was created by Intel. This open-source platform is licensed under BSD and free to use for anyone. It includes 2D and 3D feature toolkits, object identification algorithms, mobile robotics, face recognition, gesture recognition, motion tracking, segmentation, SFM, AR, boosting, gradient boosting trees, Naive Bayes classifier and many other useful packages.
+
+Even if OpenCV is written in the C++, it provides bindings in Python, Java, and Octave. This application is supported on Windows, Linux, iOS, FreeBSD.
+
+11)PyQt :-PyQt is a Python binding toolkit for cross-platform GUI. It is implemented as a Python plugin. PyQt is a free application which is licensed under the GNU General Public License. PyQt have almost 440 classes and more than 6000 functions to make a user’s journey easier. It includes classes for accessing SQL databases, an XML parser, active X controller classes, SVG support, and many more useful resources to reduce user’s challenges.
+
